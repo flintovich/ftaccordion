@@ -2,7 +2,7 @@ Plugin jQuery ftaccordion, alternative jQuery accordion without using jQuery UI
 ===========
 
 ## About plugin jquery.ftaccordion.js
-The plugin allows you to connect jquery.ftaccordion.js very light and functional accordion without using jQuery UI.
+The plugin allows you to connect jquery.ftaccordion.js very light and functional accordion without using jQuery UI.<br />
 Сompatible with IE 6.0 +, FF 2 +, Safari 2.0 +, Opera 9.0 +.<br />
 <strong><a target="_blang" title="Плагин jQuery ftaccordion DEMO" href="http://flintovich.ru/demo/ftaccordion/demo/demo.html">DEMO</a></strong>
 and <strong><a target="_blang" title="Плагин jQuery ftaccordion DEMO" href="http://flintovich.ru/demo/ftaccordion/demo/demo2.html">DEMO2</a></strong>
