@@ -1,0 +1,28 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td { margin: 0; padding: 0; } table { border-collapse: collapse; border-spacing: 0; } fieldset, img { border: 0; } address, caption, cite, code, dfn, th, var { font-style: normal; font-weight: normal; } ol, ul { list-style: none; } body { font:15px/18px Arial, Verdana, sans-serif; width: 100%; color: #fff; } a { color: #fff; outline: none; text-decoration: underline; } a:hover { text-decoration: none; } img { border: none; } ul{ list-style-type: none; } input { vertical-align: middle; } #wrapper{ width: 300px; margin: 100px auto 0; }
+/* ftaccordion */
+.ftaccordion .ac-click{
+	background-color: #3BB3E0;
+	background-image: url(../images/ac-arrows.png);
+	background-repeat: no-repeat;
+	background-position: 10px 11px;
+    border: 1px solid #186F8F;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 #7FD2F1;
+    padding: 7px 7px 7px 35px;
+	margin: 3px 0;
+    position: relative;
+    text-decoration: none;
+	display: block;
+	cursor: pointer;
+}
+.ftaccordion .ac-wrapper.open > .ac-click{
+	background-position: 10px -46px;
+}
+.ftaccordion .ac-container {
+    background: #0D84AF;
+    border-radius: 0 0 5px 5px;
+    padding: 5px 0 5px 20px;
+	margin: -6px 0 0;
+    font: 13px/20px Arial,Verdana,sans-serif;
+}
+/* ftaccordion AND*/
