@@ -16,6 +16,62 @@ Connect to the page required for files - the jQuery library and the plugin file:
       <script src="js/jquery.ftaccordion.min.js" type="text/javascript">
   </script>
 </pre> 
+Example html code:
+
+		<ul class="ftaccordion">
+			<li class="ac-wrapper">
+				<a class="ac-click">Lorem Title</a>
+				<div class="ac-container">
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+				</div>
+			</li>
+			<li class="ac-wrapper">
+				<a class="ac-click">Lorem Title</a>
+				<div class="ac-container">
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+				</div>
+			</li>
+			<li class="ac-wrapper">
+				<a class="ac-click">Lorem Title</a>
+				<div class="ac-container">
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+				</div>
+			</li>
+			<li class="ac-wrapper">
+				<a class="ac-click">Lorem Title</a>
+				<div class="ac-container">
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+					<p>Lorem Ipsum</p>
+				</div>
+			</li>
+		</ul>	
 
 ## Using plugin jquery.ftaccordion.js
   
