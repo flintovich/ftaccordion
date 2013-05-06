@@ -116,5 +116,5 @@ Default - click
 **maxHeight** - Auto height tab at the maximum (It is recommended to use the accordion without child elements)  <br />
 Default - false
 
-**maxHeight** - Ability to close the active tab by clicking on it (It is recommended to use the accordion without child elements)  <br />
+**stowage** - Ability to close the active tab by clicking on it (It is recommended to use the accordion without child elements)  <br />
 Default - true
