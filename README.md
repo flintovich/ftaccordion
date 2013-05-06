@@ -79,7 +79,7 @@ Example html code:
 <pre lang="js">
   <script type="text/javascript">
     $(document).ready(function(){
-      $(.'ftaccordion').ftaccordion();
+      $('.ftaccordion').ftaccordion();
     });
   </script>
 </pre>
