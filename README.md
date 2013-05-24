@@ -10,12 +10,13 @@ and <strong><a target="_blang" title="Плагин jQuery ftaccordion DEMO" href
 ## Install the plugin jquery.ftaccordion.js
 Connect to the page required for files - the jQuery library and the plugin file:
 
-<pre lang="js">
-  <script type="text/javascript">
+
+
       <script src="js/jquery.js" type="text/javascript">
       <script src="js/jquery.ftaccordion.min.js" type="text/javascript">
-  </script>
-</pre> 
+  
+ 
+
 Example html code:
 
 		<ul class="ftaccordion">
@@ -76,17 +77,18 @@ Example html code:
 ## Using plugin jquery.ftaccordion.js
   
 **1. Using the plug with default settings:**
-<pre lang="js">
+
   <script type="text/javascript">
+  
     $(document).ready(function(){
       $('.ftaccordion').ftaccordion();
     });
+    
   </script>
-</pre>
+
 In this example, the plugin works with all default settings. These options are best suited for most tasks.
 
 **2. Using the plug with the other settings:**
-<pre lang="js">
   <script type="text/javascript">
     $(document).ready(function(){
       $('.ftaccordion').ftaccordion({
@@ -97,7 +99,8 @@ In this example, the plugin works with all default settings. These options are b
       });
     });
   </script>
-</pre>
+
+
 In this example, the plug-in works with certain parameters that are set by the necessary needs of the user.
 
 ## Options:
