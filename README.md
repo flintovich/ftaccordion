@@ -89,7 +89,7 @@ Example html code:
 In this example, the plugin works with all default settings. These options are best suited for most tasks.
 
 **2. Using the plug with the other settings:**
-  <script type="text/javascript">
+ 
     $(document).ready(function(){
       $('.ftaccordion').ftaccordion({
         speed: 500,
@@ -98,7 +98,7 @@ In this example, the plugin works with all default settings. These options are b
         maxHeight: true
       });
     });
-  </script>
+  
 
 
 In this example, the plug-in works with certain parameters that are set by the necessary needs of the user.
